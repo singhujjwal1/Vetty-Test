@@ -7,23 +7,22 @@ My Project Submission for Vetty OA
 
 ## Installation
 
-First, clone this repository:
 
 <!-- start:code block -->
 # Clone this repository
-git clone https://github.com/singhujjwal1/Vetty-Test.git
-cd venv
+git clone https://github.com/singhujjwal1/Vetty-Test.git <br />
+cd venv <br />
 
 # Install dependencies
-pip install python
-use python virtual environment REQUIREMENTS.TXT
+pip install python <br />
+use python virtual environment REQUIREMENTS.TXT <br />
 
 
 # Run the app
-You can deploy the application using a web server like Gunicorn. Install Gunicorn within your virtual environment.
-pip install gunicorn
-gunicorn -w 4 app:app
+You can deploy the application using a web server like Gunicorn. Install Gunicorn within your virtual environment. <br />
+pip install gunicorn <br />
+gunicorn -w 4 app:app <br />
 
 # Open http://127.0.0.1:8000/read-file/ in your browser
-open http://127.0.0.1:8000/read-file/
+open http://127.0.0.1:8000/read-file/ <br />
 <!-- end:code block -->
