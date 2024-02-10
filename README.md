@@ -11,7 +11,6 @@ My Project Submission for Vetty OA
 <!-- start:code block -->
 # Clone this repository
 git clone https://github.com/singhujjwal1/Vetty-Test.git <br />
-cd venv <br />
 
 # Install dependencies
 pip install python <br />
